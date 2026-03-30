@@ -65,6 +65,14 @@ This project focuses on classifying fruit and vegetable freshness using deep lea
 
 ---
 
+## 📈 Training model
+
+![Base CNN](results/cnn_training.png)
+
+![Resnet-18](results/resnet18_training.png)
+
+---
+
 ## 🚀 Key Insights
 
 - Transfer learning improves performance significantly
